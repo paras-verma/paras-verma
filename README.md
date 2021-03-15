@@ -43,4 +43,4 @@
 [website]: https://paras-verma.github.io/tempSite
 [yellowpages]: http://yellowpagescdc.bitbucket.io
 [linkedin]: https://linkedin.com/in/masspiar
-[mail]: mailto:paras@sscbs.du.ac.in
+[mail]: mailto:paras.19508@sscbs.du.ac.in
