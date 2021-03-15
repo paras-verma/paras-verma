@@ -39,12 +39,6 @@
 
 ---
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Paras' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details> -->
 
 [website]: https://paras-verma.github.io/tempSite
 [yellowpages]: http://yellowpagescdc.bitbucket.io
