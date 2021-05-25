@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=paras-verma.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://paras-verma.github.io)
 
-## I'm a Developer, Deisgner and an Innovator
+## I'm a Developer, Designer and an Innovator
 
 - 🔭 Have a look at my latest project: [yellowPages!][yellowpages]
 - 🌱 I’m currently trying out Docker and AWS
