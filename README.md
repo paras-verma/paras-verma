@@ -12,10 +12,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="paras-verma.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[![likedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white")][likedIn]
-[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")][mail]
-
 <br />
 
 ### Languages and Tools:
