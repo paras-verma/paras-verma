@@ -38,5 +38,5 @@
 
 [website]: https://paras-verma.github.io
 [yellowpages]: http://yellowpagescdc.bitbucket.io
-[likedIn]: https://linkedin.com/in/masspiar
+[likedIn]: https://linkedin.com/in/maaspiar
 [mail]: mailto:paras.19508@sscbs.du.ac.in
