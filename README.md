@@ -2,13 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=paras-verma.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://paras-verma.github.io)
 
-## I'm a Developer, Designer and an Innovator
-
-- 🔭 Have a look at my latest project: [yellowPages!][yellowpages]
-- 🌱 I’m currently trying out Docker and AWS
-- 👯 I’m looking to collaborate with devs who have worked with firebase with experience in portal design
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm an avid F1 fan with keen interest in science and tech
+- 🌱 currently trying out Docker and AWS
+- 👯 looking to collaborate with devs who have worked on and are interested in UI/UX
+- ⚡ Interests: an avid F1 fan with keen interest in science and tech
 
 ### Connect with me:
 
